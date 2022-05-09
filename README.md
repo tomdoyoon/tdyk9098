@@ -3,7 +3,7 @@
 My name is Tom and I am facinated by what data analytics and data science can achieve. I'm excited to contribute to answering a vast array of questions and providing insights through 
 learning a variety of coding languages.
 
-I started on my data science journey by diving into Python in Late March / Early April of 2022 and I haven't looked back since! 
+I started on my data science journey by diving into Python in Late March / Early April of 2022.
 
 I will use this GitHub as both a personal portfolio but also a journal to document my progress and experience through data science.
 
