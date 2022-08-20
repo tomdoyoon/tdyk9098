@@ -10,7 +10,7 @@ I will use this GitHub as both a personal portfolio but also a journal to docume
 # These are the types of repositories I will upload:
 
 - Showcase: Quick and simple demonstration and journal of my learning, usually with one dataset, and no observations noted.
-- MiniProject: Slightly more detailed analysis of a dataset, usually with one dataset, and includes a list of observations.
+- MiniProject: Slightly more detailed analysis of a dataset and a list of observations.
 - Project: In-depth analysis of a dataset with a final report summarizing, among other things, key findings, methods and procedures, and figures and tables.
 
 # I hope you enjoy following along my personal journey!
