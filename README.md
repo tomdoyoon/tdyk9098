@@ -1,8 +1,6 @@
 # Welcome to my GitHub!
 
-Feel free to explore my public repositories!
-
-Projects may be removed at any time.
+Feel free to explore my projects!
 
 Tom
 <!---
