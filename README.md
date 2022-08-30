@@ -1,6 +1,6 @@
 # Welcome to my GitHub!
 
-I'm excited to explore a vast array of topics and provide insights through statistical analysis and machine learning algorithims. 
+I'm excited to explore a vast array of topics and provide insights through statistical analysis and machine learning algorithms. 
 
 I believe there is always room for growth and improvement. Data science is a tool that has the opportunity to answer difficult questions and explore controversial topics. I am always learning and developing new skills with the hope of contributing to answering some of society’s questions. 
 
