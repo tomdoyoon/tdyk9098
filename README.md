@@ -7,9 +7,8 @@ Data science is a tool that has the opportunity to answer complex questions and 
 As I progress and complete new personal projects, I will be removing previous projects from my public repository.
 
 Current project list:
-- Multivariate Time Series Forecasting: 30Yr Mortgage Rates: An application of deep learning algorithms to predict 30Yr mortgage rates using time-series data.
+- The U.S. Housing Market: Conforming 30Yr Rates (2002-2023): An application of LSTM deep learning models to perform multivariate and univariate time series forecasting, predicting 30Yr mortgage rates.
 - The Green Card - A pathway to living and working in the U.S. (2014-2021): Applying feature engineering, data preprocessing, and statistical analysis to identify employment immigration trends.
-- Illinois Mortgage Acceptance: Learning about successful home ownership in Illinois (2021) using natural language preprocessing, feature engineering, and data cleansing to apply statistical analysis and machine learning algorithms.
 
 
 
