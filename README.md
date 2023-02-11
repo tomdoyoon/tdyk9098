@@ -9,6 +9,7 @@ As I progress and complete new personal projects, I will be removing previous pr
 Current project list:
 - The U.S. Housing Market: Conforming 30Yr Rates (2002-2023): An application of LSTM deep learning models to perform multivariate and univariate time series forecasting, predicting 30Yr mortgage rates.
 - The Green Card - A pathway to living and working in the U.S. (2014-2021): Applying feature engineering, data preprocessing, and statistical analysis to identify employment immigration trends.
+- Illinois Mortgage Acceptance (2021): Using natural language preprocessing, feature engineering, and data cleansing to gain statistical insights into mortgage loan applications.
 
 
 
