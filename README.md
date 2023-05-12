@@ -7,7 +7,7 @@ Data science is a tool that has the opportunity to answer complex questions and 
 As I progress and complete new personal projects, I will be removing previous projects from my public repository.
 
 Current project list:
-- Chicago Airbnb Analysis: Exploring Airbnb listings and using NLP, K-Means Clustering, and feature engineering to model daily prices and monthly availability.
+- Chicago Airbnb Analysis: Exploring Airbnb listings and using NLP, K-Means Clustering, data visualization and feature engineering to model daily prices and monthly availability.
 - Resume and Job Post Scanner Tool: Web scraping and PDF reading to keyword and key phrase extract job posts and resumes and provide a similarity score.
 - 1M USDPLN Forecasting Application: An automated approach to multivariate time series forecasting of 1M USDPLN FX rates, using APIs and JSON get requests.
 - The Green Card - A pathway to living and working in the U.S. (2014-2021): Applying feature engineering, data preprocessing, and statistical analysis to identify employment immigration trends.
