@@ -7,6 +7,7 @@ Data science is a tool that has the opportunity to answer complex questions and 
 As I progress and complete new personal projects, I will be removing previous projects from my public repository.
 
 Current project list:
+- Animated Time Series Visualization: Using animated data visualization to compare and analyze stock market crashes and weekly cumulative asset performances.
 - Chicago Airbnb Analysis: Exploring Airbnb listings and using NLP, K-Means Clustering, data visualization and feature engineering to model daily prices and monthly availability.
 - Resume and Job Post Scanner Tool: Web scraping and PDF reading to keyword and key phrase extract job posts and resumes and provide a similarity score.
 - 1M USDPLN Forecasting Application: An automated approach to multivariate time series forecasting of 1M USDPLN FX rates, using APIs and JSON get requests.
