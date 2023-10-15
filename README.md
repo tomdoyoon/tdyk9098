@@ -1,10 +1,12 @@
 # Welcome to my GitHub!
 
-I'm excited to explore a vast array of topics and provide data driven insights through statistical analysis and machine learning algorithms. 
+I am dedicated to exploring a wide range of subjects and harnessing the power of data to provide insightful answers through statistical analysis, exploratory data techniques, and the precision of machine learning algorithms. In the world of data science, every project is an opportunity to tackle complex questions and transform them into actionable insights.
 
-Data science is a tool that has the opportunity to answer complex questions and provide actionable insights. I am always learning and developing new skills with the hope of contributing exciting interpretations. 
+I am committed to continuous learning and skill development, always seeking to contribute valuable interpretations and solutions. 
 
-As I progress and complete new personal projects, I will be removing previous projects from my public repository.
+As I move forward and complete new personal projects, I will occasionally archive previous ones from this public repository.
+
+
 
 Current project list:
 - Animated Time Series Visualization: Using animated data visualization to compare and analyze stock market crashes and weekly cumulative asset performances.
